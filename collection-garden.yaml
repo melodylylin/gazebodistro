@@ -64,3 +64,7 @@ repositories:
     type: git
     url: https://github.com/kpant14/sdformat
     version: multipath
+  libpredict:
+    type: git
+    url: https://github.com/la1k/libpredict
+    version: master
